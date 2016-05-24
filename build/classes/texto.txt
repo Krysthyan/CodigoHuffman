@@ -1,0 +1,12 @@
+Gottfried Wilheml von Leibniz (1646-1716), quien aprendió matemáticas de forma autodidacta (método no 
+aconsejable en programación) construyó una máquina similar a la de Pascal, aunque algo más compleja, 
+podía dividir, multiplicar y resolver raíces cuadradas.
+
+Pero quien realmente influyó en el diseño de los primeros computadores fue Charles Babbage (1793-1871).
+ Con la colaboración de la hija de Lord Byron, Lady Ada Countess of Lovelace (1815-1852), a la que debe 
+su nombre el lenguaje ADA creado por el DoD (Departamento de defensa de Estados Unidos) en los años 70. 
+Babbage diseñó y construyó la "máquina diferencial" para el cálculo de polinomios. Más tarde diseñó la 
+"máquina analitica" de propósito general, capaz de resolver cualquier operación matemática. Murió sin 
+poder terminarla, debido al escepticismo de sus patrocinadores y a que la tecnología de la época no era 
+lo suficientemente avanzada. Un equipo del Museo de las Ciencias de Londres, en 1991, consiguió construir 
+la máquina analítica de Babbage, totalmente funcional, siguiendo sus dibujos y especificaciones.
